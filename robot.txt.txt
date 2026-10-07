@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bilimcode.github.io/bilim/sitemap.xml
